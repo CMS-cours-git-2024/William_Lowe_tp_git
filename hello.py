@@ -1,0 +1,1 @@
+print("le fichier randomFiles.py a bien été supprimer avec le restore randomFiles.py")
